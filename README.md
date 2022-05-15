@@ -22,6 +22,8 @@ Node JS (v17) for environment
 
 Lavalink Node for playing music
 
+Bot token
+
 Spotify Dev Id's
 
 ### 💨 Run the bot
