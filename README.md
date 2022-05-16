@@ -1,3 +1,7 @@
+### Micium-Development Is recruiting developers!
+--- Want to join our dev team? [click here.](https://forms.gle/ZuXfbv8a5QAP16Zb8)
+
+
 ### Bounce a complete music bot made for you!
 
 Looking for a music bot ? This fully open source bot is made for you!
