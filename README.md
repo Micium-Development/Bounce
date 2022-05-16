@@ -1,5 +1,6 @@
 ### Micium-Development Is recruiting developers!
---- Want to join our dev team? [click here.](https://forms.gle/ZuXfbv8a5QAP16Zb8)
+
+Want to join our dev team? [click here.](https://forms.gle/ZuXfbv8a5QAP16Zb8)
 
 
 ### Bounce a complete music bot made for you!
